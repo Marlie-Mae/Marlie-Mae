@@ -2,7 +2,7 @@
 <a href="mailto: awayanmarliemae@gmail.com">
 <img src="https://img.shields.io/badge/-awayanmarliemaegmail.com-%23F7DF1E?&style=for-the-badge&logo=Microsoft-outlook&logoColor=black" ></a>
 
-### Current Status Quo:
+### Current Status:
 
 - 🎒 I'm a 1st year student in Arellano University Plaridel Campus.
 - 🔍 I’m <strong>still learning and still adjusting</strong> about IT stuff.
