@@ -6,7 +6,7 @@
 
 - 🎒 I'm a 1st year student in Arellano University Plaridel Campus.
 - 🔍 I’m <strong>still learning and still adjusting</strong> about IT stuff.
-- 💬 Feel free to discuss with me about to message me. I'll be true that I reply late sometimes.
+- 💬 Feel free to message me. I'll be true that I reply late sometimes.
 
 ------------------------------------------- 
 
