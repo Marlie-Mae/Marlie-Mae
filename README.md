@@ -23,7 +23,7 @@
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{marliemae}/count.svg)
 
-
+-------------------------------------------
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@MsMarlieMae/30-nites-of-code)  
