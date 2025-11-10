@@ -21,6 +21,6 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{marlie-mae}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Marlie-Mae}/count.svg)
 
 -------------------------------------------
