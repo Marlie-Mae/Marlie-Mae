@@ -5,7 +5,7 @@
 ### Current Status:
 
 - 🎒 A BSIT student in Arellano University Plaridel Campus.
-- 🔍 I’m <strong>still learning and still adjusting</strong> about IT stuff.
+- 🔍 I’m <strong>still learning </strong>.
 - 💬 Feel free to message me. I replies late sometimes.
 
 ------------------------------------------- 
@@ -20,7 +20,10 @@
 
 ------------------------------------------- 
 
+<!--
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{Marlie-Mae}/count.svg)
 
 -------------------------------------------
+
+-->
