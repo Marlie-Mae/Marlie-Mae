@@ -6,7 +6,6 @@
 
 - 🎒 A BSIT student in Arellano University Plaridel Campus.
 - 🔍 I’m <strong>still learning </strong>.
-- 💬 Feel free to message me. I replies late sometimes.
 
 ------------------------------------------- 
 
